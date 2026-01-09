@@ -26,6 +26,6 @@ I am a **Web Designer & Developer** specializing in **Webflow** and **Front-End 
 
 ### 📫 Connect with me
 * **Portfolio:** [Your Portfolio Link Here]
-* **LinkedIn:** [Your LinkedIn Link Here]
+* **LinkedIn:** [https://www.linkedin.com/in/leeshuib]
 
 ![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesyuks&show_icons=true&theme=dark)
