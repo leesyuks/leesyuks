@@ -1,4 +1,4 @@
-### Hi there, I'm Lee! 👋
+### Hi there, I'm Syukur Lee, you can call me Lee! 👋
 
 I am a **Web Designer & Developer** specializing in **Webflow** and **Front-End Development** (HTML, CSS, JS). I focus on bridging the gap between design and code to create high-performance websites.
 
