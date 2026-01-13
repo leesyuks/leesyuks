@@ -6,13 +6,13 @@ I am a **Web Designer & Developer** specializing in **Webflow** and **Front-End 
 
 ### 🛠 Tech Stack
 
-**Design & No-Code:**
+**Design & Low-Code:**
 * Webflow (CMS, Interactions, Custom Code)
-* Figma / Adobe XD
+* Figma
 
 **Development:**
-* HTML5 & CSS3 (SCSS)
-* JavaScript (ES6+)
+* HTML5 & CSS3
+* JavaScript
 * Git & GitHub
 
 ---
@@ -20,12 +20,11 @@ I am a **Web Designer & Developer** specializing in **Webflow** and **Front-End 
 ### 📂 Featured Repositories
 
 * **[webflow-client-scripts](https://github.com/leesyuks/webflow-client-scripts)**: A library of custom JavaScript utilities and optimization scripts for Webflow projects.
-* **[skills-introduction-to-github](https://github.com/leesyuks/skills-introduction-to-github)**: My starting point for version control mastery.
 
 ---
 
 ### 📫 Connect with me
-* **Portfolio:** [Your Portfolio Link Here]
+* **Portfolio:** https://unknownagency.webflow.io
 * **LinkedIn:** [https://www.linkedin.com/in/leeshuib]
 
 ![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesyuks&show_icons=true&theme=dark)
