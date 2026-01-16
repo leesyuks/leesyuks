@@ -19,7 +19,6 @@ I am a **Web Designer & Developer** specializing in **Webflow** and **Front-End 
 
 ### 📂 Featured Repositories
 
-* **[webflow-client-scripts](https://github.com/leesyuks/webflow-client-scripts)**: A library of custom JavaScript utilities and optimization scripts for Webflow projects.
 
 ---
 
