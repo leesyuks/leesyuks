@@ -25,7 +25,7 @@ I love combining design and code to create high-performance websites.
       </td>
       <td valign="middle">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js" />
+          <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
         </a>
       </td>
     </tr>
@@ -34,21 +34,23 @@ I love combining design and code to create high-performance websites.
         <h4 style="margin:0">⚡️ Frameworks & Components</h4>
       </td>
       <td valign="middle">
+        <img src="https://img.shields.io/badge/Client--First-0055FF?style=for-the-badge&logo=webflow&logoColor=white" height="28" />
+        <img src="https://img.shields.io/badge/Finsweet-2D2A56?style=for-the-badge&logo=webflow&logoColor=white" height="28" />
+        <br>
         <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" height="28" />
         <img src="https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logo=lottiefiles&logoColor=white" height="28" />
-        <br>
-        <img src="https://img.shields.io/badge/Finsweet-2D2A56?style=for-the-badge&logo=webflow&logoColor=white" height="28" />
-        <img src="https://img.shields.io/badge/Client--First-0055FF?style=for-the-badge&logo=webflow&logoColor=white" height="28" />
       </td>
     </tr>
     <tr>
       <td width="25%" valign="middle">
-        <h4 style="margin:0">🔧 Source Control</h4>
+        <h4 style="margin:0">🔧 Tools</h4>
       </td>
       <td valign="middle">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github" />
+          <img src="https://skillicons.dev/icons?i=vscode,github,git" />
         </a>
+        <br>
+        <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="28" />
       </td>
     </tr>
   </tbody>
