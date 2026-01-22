@@ -61,7 +61,7 @@ I love combining design and code to create high-performance websites.
 <table>
   <tr>
     <td width="45%" align="center" valign="middle">
-       <img src="https://raw.githubusercontent.com/leesyuks/leesyuks/refs/heads/main/world-map-8bit" width="100%" alt="Global Reach 8-bit Map" />
+       <img src="https://github.com/leesyuks/leesyuks/blob/main/world-map-8bit.png?raw=true" width="100%" alt="Global Reach 8-bit Map" />
     </td>
     <td valign="middle">
       <h4 style="margin:0 0 15px 0;">📍 I worked with clients based in:</h4>
