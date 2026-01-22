@@ -1,6 +1,6 @@
 ### Hey, call me Lee! 👋
 
-I am a **Web Designer & Developer** specializing in **Webflow** and **Front-End Development** (HTML, CSS, JS).  
+I am a **Web Designer & Developer** specializing in **Webflow** and **Front-End Development** (HTML, CSS, JS).<br>
 I love combining design and code to create high-performance websites.
 
 ---
@@ -41,7 +41,7 @@ I love combining design and code to create high-performance websites.
         <img src="https://img.shields.io/badge/Client--First-0055FF?style=for-the-badge&logo=webflow&logoColor=white" height="28" />
       </td>
     </tr>
-     <tr>
+    <tr>
       <td width="25%" valign="middle">
         <h4 style="margin:0">🔧 Source Control</h4>
       </td>
@@ -56,6 +56,43 @@ I love combining design and code to create high-performance websites.
 
 ---
 
+### 🌏 Global Reach
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="middle">
+       <img src="YOUR-IMAGE-PATH-HERE.jpg" width="100%" alt="Global Reach 8-bit Map" />
+    </td>
+    <td valign="middle">
+      <h4 style="margin:0 0 15px 0;">📍 I worked with clients based in:</h4>
+      <table style="border:none;">
+        <tr style="border:none;">
+           <td style="border:none; padding: 2px 10px;">🇺🇸 New York</td>
+           <td style="border:none; padding: 2px 10px;">🇦🇪 Dubai</td>
+        </tr>
+         <tr style="border:none;">
+           <td style="border:none; padding: 2px 10px;">🇺🇸 Los Angeles</td>
+           <td style="border:none; padding: 2px 10px;">🇨🇭 Switzerland</td>
+        </tr>
+        <tr style="border:none;">
+           <td style="border:none; padding: 2px 10px;">🇬🇧 United Kingdom</td>
+           <td style="border:none; padding: 2px 10px;">🇿🇦 Cape Town</td>
+        </tr>
+        <tr style="border:none;">
+          <td style="border:none; padding: 2px 10px;">🇲🇾 Malaysia</td>
+          <td style="border:none; padding: 2px 10px;">🇸🇬 Singapore</td>
+        </tr>
+        <tr style="border:none;">
+           <td style="border:none; padding: 2px 10px;">🇹🇭 Bangkok</td>
+           <td style="border:none; padding: 2px 10px;"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📂 Featured Repositories
 
 ---
@@ -63,7 +100,7 @@ I love combining design and code to create high-performance websites.
 ### 📫 Let's Connect
 
 * **Work:** hey@unknownagency.my
-* * **Personal:** syukurshuib@proton.me
+* **Personal:** syukurshuib@proton.me
 * **LinkedIn:** [linkedin.com/in/leeshuib](https://www.linkedin.com/in/leeshuib)
 
 <br>
