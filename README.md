@@ -76,15 +76,15 @@ I love combining design and code to create high-performance websites.
         </tr>
         <tr style="border:none;">
            <td style="border:none; padding: 2px 10px;">🇬🇧 United Kingdom</td>
-           <td style="border:none; padding: 2px 10px;">🇿🇦 Cape Town</td>
+           <td style="border:none; padding: 2px 10px;">🇿🇦 South Africa</td>
         </tr>
         <tr style="border:none;">
           <td style="border:none; padding: 2px 10px;">🇲🇾 Malaysia</td>
           <td style="border:none; padding: 2px 10px;">🇸🇬 Singapore</td>
         </tr>
         <tr style="border:none;">
-           <td style="border:none; padding: 2px 10px;">🇹🇭 Bangkok</td>
-           <td style="border:none; padding: 2px 10px;"></td>
+           <td style="border:none; padding: 2px 10px;">🇹🇭 Thailand</td>
+           <td style="border:none; padding: 2px 10px;">🇮🇩 Indonesia</td>
         </tr>
       </table>
     </td>
