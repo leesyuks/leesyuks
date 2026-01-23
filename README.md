@@ -86,7 +86,7 @@ I love combining design and code to create high-performance websites.
         </tr>
         <tr style="border:none;">
            <td style="border:none; padding: 2px 10px;">🇹🇭 Thailand</td>
-           <td style="border:none; padding: 2px 10px;">🇮🇩 Indonesia</td>
+           <td style="border:none; padding: 2px 10px;">🇮🇩 Australia</td>
         </tr>
       </table>
     </td>
