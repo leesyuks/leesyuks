@@ -86,7 +86,7 @@ I love combining design and code to create high-performance websites.
         </tr>
         <tr style="border:none;">
            <td style="border:none; padding: 2px 10px;">🇹🇭 Thailand</td>
-           <td style="border:none; padding: 2px 10px;">🇮🇩 Australia</td>
+           <td style="border:none; padding: 2px 10px;">🇦🇺 Australia</td>
         </tr>
       </table>
     </td>
@@ -102,8 +102,8 @@ I love combining design and code to create high-performance websites.
 ### 📫 Let's Connect
 
 * **Work:** hey@unknownagency.my
-* **Personal:** syukurshuib@proton.me
-* **LinkedIn:** [linkedin.com/in/leeshuib](https://www.linkedin.com/in/leeshuib)
+* **Personal:** leesyukur@gmail.com
+* **LinkedIn:** [linkedin.com/in/syukurs](https://www.linkedin.com/in/syukurs)
 
 <br>
 
