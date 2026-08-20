@@ -32,13 +32,13 @@ Currently building products and operational systems across travel, technology an
 
 `Git` · `GitHub` · `GitHub Actions` · `VS Code` · `Vercel`
 
-### Web & Automation
+### Web, Front-End & Automation
 
 `Webflow` · `Client-First` · `Finsweet` · `GSAP` · `Lottie`
 
 `Airtable` · `Make` · `n8n` · `Slack`
 
-### AI
+### Agents
 
 `Codex` · `ChatGPT` · `Claude`
 
@@ -46,7 +46,7 @@ Currently building products and operational systems across travel, technology an
 
 ## Current Work
 
-### Centre for African Tourism
+### Centre for African Tourism (CAT)
 
 Digital infrastructure, booking operations and internal systems for travel across Southern Africa.
 
@@ -73,13 +73,6 @@ Worked with clients and projects across:
 ## Repositories
 
 Selected projects, internal tools and experiments are pinned below.
-
----
-
-## Contact
-
-**Work** · hey@unknownagency.my  
-**LinkedIn** · [linkedin.com/in/syukurs](https://www.linkedin.com/in/syukurs)
 
 ---
 
