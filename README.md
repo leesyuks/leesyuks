@@ -1,10 +1,11 @@
 <div align="center">
 
-# Lee
-
-Designer, developer and entrepreneur working across **product, web development, automation and digital infrastructure**.
-
-Currently building products and operational systems across travel, technology and executive performance.
+██╗      ███████╗███████╗
+██║      ██╔════╝██╔════╝
+██║      █████╗  █████╗
+██║      ██╔══╝  ██╔══╝
+███████╗ ███████╗███████╗
+╚══════╝ ╚══════╝╚══════╝
 
 ## Where Am I?
 
