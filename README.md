@@ -60,20 +60,8 @@ Design, development and digital product work across websites, automation and int
 
 ---
 
-## Global Experience
+## Where Am I?
 
 <img src="https://github.com/leesyuks/leesyuks/blob/main/world-map-8bit.png?raw=true" width="480" alt="Global work map">
 
-Worked with clients and projects across:
-
 🇺🇸 United States · 🇬🇧 United Kingdom · 🇨🇭 Switzerland · 🇦🇪 UAE · 🇿🇦 South Africa · 🇲🇾 Malaysia · 🇹🇭 Thailand · 🇸🇬 Singapore · 🇦🇺 Australia
-
----
-
-## Repositories
-
-Selected projects, internal tools and experiments are pinned below.
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leesyuks&show_icons=true&hide_border=true&theme=transparent)
