@@ -1,4 +1,6 @@
-<center> # Lee
+<div align="center">
+
+# Lee
 
 Designer, developer and entrepreneur working across **product, web development, automation and digital infrastructure**.
 
@@ -16,25 +18,33 @@ Currently building products and operational systems across travel, technology an
 
 ### Front-End Development
 
-[![Front-End](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs" alt="Front-End Development">
+</a>
 
 `HTML` · `CSS` · `JavaScript` · `TypeScript` · `Tailwind CSS` · `React` · `Next.js`
 
 ### Backend & Data
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,postgres,supabase)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase" alt="Backend and Data">
+</a>
 
 `Node.js` · `PostgreSQL` · `Supabase`
 
 ### Design
 
-[![Design](https://skillicons.dev/icons?i=figma,ai,ps)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Design">
+</a>
 
 `Figma` · `Illustrator` · `Photoshop`
 
 ### Development Tools
 
-[![Development Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel" alt="Development Tools">
+</a>
 
 `Git` · `GitHub` · `GitHub Actions` · `VS Code` · `Vercel`
 
@@ -65,4 +75,5 @@ Executive performance platform and coaching infrastructure focused on performanc
 Design, development and digital product work across websites, automation and internal systems.
 
 ---
-</center>
+
+</div>
