@@ -4,6 +4,12 @@ Designer, developer and entrepreneur working across **product, web development, 
 
 Currently building products and operational systems across travel, technology and executive performance.
 
+## Where Am I?
+
+<img src="https://github.com/leesyuks/leesyuks/blob/main/world-map-8bit.png?raw=true" width="480" alt="Global work map">
+
+🇺🇸 United States · 🇬🇧 United Kingdom · 🇨🇭 Switzerland · 🇦🇪 UAE · 🇿🇦 South Africa · 🇲🇾 Malaysia · 🇹🇭 Thailand · 🇸🇬 Singapore · 🇦🇺 Australia
+
 ---
 
 ## Tech Stack
@@ -59,9 +65,3 @@ Executive performance platform and coaching infrastructure focused on performanc
 Design, development and digital product work across websites, automation and internal systems.
 
 ---
-
-## Where Am I?
-
-<img src="https://github.com/leesyuks/leesyuks/blob/main/world-map-8bit.png?raw=true" width="480" alt="Global work map">
-
-🇺🇸 United States · 🇬🇧 United Kingdom · 🇨🇭 Switzerland · 🇦🇪 UAE · 🇿🇦 South Africa · 🇲🇾 Malaysia · 🇹🇭 Thailand · 🇸🇬 Singapore · 🇦🇺 Australia
