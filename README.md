@@ -1,4 +1,4 @@
-# Lee
+<center> # Lee
 
 Designer, developer and entrepreneur working across **product, web development, automation and digital infrastructure**.
 
@@ -65,3 +65,4 @@ Executive performance platform and coaching infrastructure focused on performanc
 Design, development and digital product work across websites, automation and internal systems.
 
 ---
+</center>
