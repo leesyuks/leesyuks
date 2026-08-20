@@ -44,9 +44,9 @@ Currently building products and operational systems across travel, technology an
 
 ---
 
-## Current Work
+## Work
 
-### Centre for African Tourism (CAT)
+### CENTRE FOR AFRICAN TOURISM (CAT)
 
 Digital infrastructure, booking operations and internal systems for travel across Southern Africa.
 
@@ -54,7 +54,7 @@ Digital infrastructure, booking operations and internal systems for travel acros
 
 Executive performance platform and coaching infrastructure focused on performance, decision-making and execution.
 
-### UNKNOWN
+### UNKNOWN AGENCY
 
 Design, development and digital product work across websites, automation and internal systems.
 
