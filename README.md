@@ -11,7 +11,7 @@
 
 ## Where Am I?
 
-<img src="https://github.com/leesyuks/leesyuks/blob/main/world-map-8bit.png?raw=true" width="480" alt="Global work map">
+<img src="https://github.com/leesyuks/leesyuks/blob/main/world-map-8bit.png?raw=true" width="480" alt="global work map">
 
 `🇺🇸 United States` · `🇬🇧 United Kingdom` · `🇨🇭 Switzerland` · `🇦🇪 UAE` · `🇿🇦 South Africa` · `🇲🇾 Malaysia` · `🇹🇭 Thailand` · `🇸🇬 Singapore`
 
